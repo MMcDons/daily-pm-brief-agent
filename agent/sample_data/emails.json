@@ -1,0 +1,58 @@
+{
+  "emails": [
+    {
+      "id": "msg-1",
+      "from": "VP of Operations",
+      "subject": "Friday demo - go/no-go needed",
+      "received": "2026-03-09T16:45",
+      "body": "I need your go/no-go on Friday's client demo by end of day tomorrow. If there is any risk to the environment or the integration work, tell me now rather than Thursday. I'm briefing the client's sponsor tomorrow evening.",
+      "deadline": "2026-03-10T17:00",
+      "flagged": true
+    },
+    {
+      "id": "msg-2",
+      "from": "J. Alvarez (Northline Systems)",
+      "subject": "Possible delay on integration testing",
+      "received": "2026-03-09T18:20",
+      "body": "Heads up: our QA environment had an unexpected rebuild and we may slip integration testing by about a week. We are still assessing. Can we cover impact on your side at tomorrow's check-in?",
+      "deadline": null,
+      "flagged": true
+    },
+    {
+      "id": "msg-3",
+      "from": "Finance Lead",
+      "subject": "Q3 budget - revised numbers for sign-off",
+      "received": "2026-03-09T11:10",
+      "body": "Attached are the revised Q3 numbers after the vendor rate change. I need your sign-off by Thursday so it makes the board package.",
+      "deadline": "2026-03-12T17:00",
+      "flagged": false
+    },
+    {
+      "id": "msg-4",
+      "from": "Sarah",
+      "subject": "Is our 1:1 still on tomorrow?",
+      "received": "2026-03-09T15:02",
+      "body": "I noticed the Steering Committee is at 10:00 and our 1:1 is 10:30. Are we still meeting, or should we move it? Happy to do later in the day.",
+      "deadline": null,
+      "flagged": false
+    },
+    {
+      "id": "msg-5",
+      "from": "HR Benefits",
+      "subject": "Reminder: open enrollment closes March 31",
+      "received": "2026-03-09T08:00",
+      "body": "A reminder that benefits open enrollment closes on March 31. No action is needed if you are keeping your current selections.",
+      "deadline": null,
+      "flagged": false
+    },
+    {
+      "id": "msg-6",
+      "from": "Internal Newsletter",
+      "subject": "This week at the company",
+      "received": "2026-03-09T07:00",
+      "body": "Office updates, a new hire announcement, and the monthly lunch-and-learn schedule.",
+      "deadline": null,
+      "flagged": false
+    }
+  ]
+}

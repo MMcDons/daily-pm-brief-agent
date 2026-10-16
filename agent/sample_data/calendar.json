@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-10",
+  "day": "Tuesday",
+  "timezone": "America/Edmonton",
+  "events": [
+    {
+      "id": "evt-1",
+      "title": "Vendor Check-in: Northline Systems",
+      "start": "09:00",
+      "end": "09:30",
+      "attendees": ["J. Alvarez (Northline)", "Delivery Lead"],
+      "agenda": "Integration testing status and timeline",
+      "notes": "Northline flagged a possible 1-week slip on integration testing in yesterday's email."
+    },
+    {
+      "id": "evt-2",
+      "title": "Weekly Steering Committee",
+      "start": "10:00",
+      "end": "11:00",
+      "attendees": ["VP of Operations", "Finance Lead", "Engineering Director", "Delivery Lead"],
+      "agenda": null,
+      "notes": "No agenda has been circulated."
+    },
+    {
+      "id": "evt-3",
+      "title": "1:1 with Sarah",
+      "start": "10:30",
+      "end": "11:00",
+      "attendees": ["Sarah"],
+      "agenda": "Career development and workload check-in",
+      "notes": "Recurring weekly. Overlaps with the Steering Committee."
+    },
+    {
+      "id": "evt-4",
+      "title": "Client Demo Prep",
+      "start": "14:00",
+      "end": "14:30",
+      "attendees": ["Delivery Lead", "Engineering Director", "Solutions Architect"],
+      "agenda": "Walk through Friday client demo script and environment readiness",
+      "notes": "Demo go/no-go has not been confirmed yet."
+    }
+  ]
+}

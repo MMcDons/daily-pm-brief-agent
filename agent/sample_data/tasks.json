@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "task-1",
+      "title": "Update risk register with vendor delay risk",
+      "due": "2026-03-06",
+      "status": "open",
+      "context": "Northline's slip risk has been discussed informally since last week but is not yet logged."
+    },
+    {
+      "id": "task-2",
+      "title": "Circulate steering committee agenda",
+      "due": "2026-03-09",
+      "status": "open",
+      "context": "Should have gone out the day before the meeting."
+    },
+    {
+      "id": "task-3",
+      "title": "Send go/no-go decision on Friday demo",
+      "due": "2026-03-10",
+      "status": "open",
+      "context": "Requested by the VP of Operations."
+    },
+    {
+      "id": "task-4",
+      "title": "Sign off on revised Q3 budget",
+      "due": "2026-03-12",
+      "status": "open",
+      "context": "Needed for the board package."
+    },
+    {
+      "id": "task-5",
+      "title": "Book conference room for Friday demo",
+      "due": "2026-03-17",
+      "status": "open",
+      "context": "Large room with video conferencing."
+    }
+  ]
+}
